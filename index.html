@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>WhatsApp Direct Chat</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="card">
+<h2>📲 WhatsApp Direct Chat</h2>
+
+
+<label>Country Code</label>
+<input type="text" id="code" value="92">
+
+
+<label>Phone Number</label>
+<input type="text" id="number" placeholder="3001234567">
+
+
+<label>Message (Optional)</label>
+<textarea id="message" placeholder="Hello..."></textarea>
+
+
+<button onclick="openWhatsApp()">Open WhatsApp</button>
+<button class="copy" onclick="copyLink()">Copy Link</button>
+
+
+<p id="result"></p>
+</div>
+
+
+<script src="script.js"></script>
+</body>
+</html>
