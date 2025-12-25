@@ -16,7 +16,7 @@ Saving phone numbers just to send a single WhatsApp message is inefficient. This
 
 Perfect for:
 - Delivery riders 🚴‍♂️
-- Small business owners 🏪
+- Small business owners. 🏪
 - Freelancers 💼
 - Customer support teams 📞
 - Personal daily use
