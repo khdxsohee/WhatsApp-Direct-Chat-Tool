@@ -1,4 +1,4 @@
-# 📲 WhatsApp Direct Chat Tool
+# 📲 WhatsApp Direct Chat Tool (Fast Way to Open Chat without Saving Phone Number)
 
 
 A **modern, lightweight, and privacy‑friendly web tool** that allows users to open a WhatsApp chat with any phone number **without saving the contact**.
